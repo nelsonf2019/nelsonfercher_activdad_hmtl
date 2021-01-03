@@ -1,0 +1,58 @@
+.about-container-rectangulo {
+
+    margin-bottom: 50px;
+    margin-top: 50px;
+    left: 0px;
+    width: 1366px;
+    height: 672px;
+    background-color: #FFFFFF;
+   
+}
+.about-cards {
+
+    margin-left: auto;
+    width: 1200px;
+    padding-top: 50px;
+    margin-right: auto;
+}
+.about-cards > h2 {
+
+    text-align: left;
+    letter-spacing: 0.55px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.about-cards > h2 > span {
+
+    text-align: left;
+    letter-spacing: 0.55px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #E0752F;
+}
+
+
+.about-cards-text-content {
+
+        text-align: left;
+        
+        
+    }
+
+
+.elements {
+
+     
+     
+   
+    border-left: 15px solid #e0752f;
+    /* background-color: #E0752F; */
+    /* left: 0px; */
+    /* width: 15px; */
+    height: 384px;
+    position: relative;
+    
+}
+
+.d-none {
+    display: none !important;
+}

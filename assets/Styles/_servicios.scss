@@ -1,0 +1,51 @@
+/*.accordion {
+
+    top: 2208px;
+    left: 0px;
+    width: 1366px;
+    height: 768px;
+    
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+
+}*/
+
+.accordion_img4-section {
+     
+    height: 768px;
+    width: 1366px;
+    border: 1px solid #e3e3e3c2;
+    background-image: url(../images/section4-image.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.6);
+    
+}
+
+
+img {
+
+    opacity:100%;
+}
+
+.accordion {
+    width: 700px;
+    position: relative;
+    top: 150px;
+    left: 200px;
+     
+    
+}
+
+.accordion-header {
+
+    border: 0.5px solid #E0752F;
+    
+}
+
+
+
+.accordion-collapse {
+
+    background: white;  
+}
+

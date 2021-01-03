@@ -1,0 +1,59 @@
+  /*Encabezado para la barra de navegación*/
+ .header {
+    border-bottom: 1px solid #e0752f;
+    position: fixed;
+    width: 100%;
+    background-color: #e0752f;
+    z-index: 1;
+   
+}
+
+.section-inicio {
+
+    width: 1366px;
+}
+#inicio {
+
+    height: 768px;
+}
+.navbar {
+
+    float: right;
+}
+
+.logo {
+
+    float: left;
+    display:block;
+    padding: 38px 16px;
+    margin-left: 15px;
+}
+/*Con Clearfix ayuda a que la barra de navegacion se muestre en un lado izquierdo y siempre flotando*/
+.clearfix::after {
+
+
+    display: block;
+    clear: both;
+    content:"";
+
+
+}
+
+.navbar > ul > li {
+
+    display: inline-block;
+    
+     
+    
+}
+
+.navbar > ul > li > a {
+    display: block;
+   /* height: 96px;*/
+    padding: 38px 16px;
+    color: #ffffff;
+    font-size: 16px;
+    text-align: center;
+    text-decoration: none;
+}
+
